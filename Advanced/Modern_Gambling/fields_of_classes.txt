@@ -1,0 +1,14 @@
+-- User --
+1-Name
+2-Lastname
+3-Age
+4-Id
+5-accountValue
+6-gamblesHistory
+
+
+-- Event --
+1-EventName
+2-Date 
+3-Event_id
+4-maximum_participants
